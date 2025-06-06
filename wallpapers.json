@@ -4,5 +4,8 @@
   { "id": "3", "categories": ["nature"], "url": "https://images.unsplash.com/photo-1524648895410-53fcb1d98094?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
   { "id": "4", "categories": ["plain", "minimal"], "url": "https://images.unsplash.com/photo-1517191434949-5e90cd67d2b6?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
   { "id": "5", "categories": ["plain", "minimal"], "url": "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
-  { "id": "6", "categories": ["plain", "minimal"], "url": "https://images.unsplash.com/photo-1500817487388-039e623edc21?q=80&w=1289&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+  { "id": "6", "categories": ["plain", "minimal"], "url": "https://images.unsplash.com/photo-1500817487388-039e623edc21?q=80&w=1289&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { "id": "7", "categories": ["wall", "minimal"], "url": "https://images.unsplash.com/photo-1506143925201-0252c51780b0?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { "id": "8", "categories": ["wall", "minimal"], "url": "https://images.unsplash.com/photo-1517524285303-d6fc683dddf8?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+  { "id": "9", "categories": ["wall", "minimal"], "url": "https://images.unsplash.com/photo-1487147264018-f937fba0c817?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
 ]
